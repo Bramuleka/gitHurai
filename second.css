@@ -1,0 +1,69 @@
+div{
+   
+    height: 150px;
+    width: 150px;
+    float: left;
+    border: 5px solid #000;
+    margin: 20px;
+    
+}
+html{
+    background-image: linear-gradient(rgba(130, 130, 130, 0.75),rgba(84, 23, 23, 0.75)),url(/img/guy.jpg);
+    background-position: center;
+    background-size: relative;
+    color: rgb(247, 248, 248);
+
+}
+
+h1{
+    align-items: center;
+    color: rgb(238, 56, 11);
+
+}
+p1{
+    font-size: larger;
+    font-style: italic;
+    position: 50;
+    top: 50;
+}
+
+#firsts{
+    background-color: green;
+
+}
+
+#seconds{
+    background-color: red;
+
+}
+
+#surnames{
+    background-color: purple;
+
+}
+#nicknames{
+    background-color: yellow;
+}
+#taglines{
+    background-color: blue;
+
+}
+
+.consoles{
+    background-color: rgb(67, 236, 67);
+}
+
+#sony{ 
+    background-color: blue;
+}
+#nintendo{
+    background-color: red;
+}
+.txt{
+    height: 150px;
+    width: 400px;
+    background-color: orangered;
+    font-style: oblique;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
