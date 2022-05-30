@@ -1,0 +1,46 @@
+html {
+  scroll-behavior: smooth; }
+
+#intro {
+  background: url("../img/bg56.png") no-repeat center center;
+  position: sticky !important;
+  top: 0 !important;
+  background-size: cover; }
+
+.top-nav-collapse {
+  background-color: #814393 !important; }
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important; }
+
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #814393 !important; } }
+
+#intro .h6 {
+  font-weight: 300;
+  line-height: 1.7; }
+
+.site-bg-img {
+  height: 100vh;
+  min-height: 480px;
+  max-height: 1080px; }
+
+
+@media (max-width: 450px) {
+  .margins {
+    margin-right: 1rem;
+    margin-left: 1rem; } }
+
+#pricing .lead {
+  opacity: 0.7; }
+
+#pricing .card-image {
+  background: url("../img/architecture.jpg") no-repeat center center; }
+
+#pricing ul li {
+  font-size: 1.1em; }
+  
+#navbar-brand{
+  color: #000 !important;
+}
